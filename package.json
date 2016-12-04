@@ -1,0 +1,16 @@
+{
+  "name": "muttasel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Suhail Abood <suhail.abood@gmail.com> (suhailabood.me)",
+  "license": "ISC",
+  "devDependencies": {
+    "jspm": "^0.16.48",
+    "tslint": "^4.0.1",
+    "typescript": "^2.0.10"
+  }
+}

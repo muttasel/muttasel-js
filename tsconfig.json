@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "rootDir": "./src",
+        "outFile": "./es6/bundle.js",
+        "target": "es5",
+        "module": "amd"
+    },
+    "exclude": [
+        "jspm_packages",
+        "node_modules"
+    ]
+}
